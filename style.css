@@ -1,0 +1,81 @@
+p
+{
+    color: rgb(14, 16, 139);
+}
+h1
+{
+    color: #000000;
+}
+h2
+{
+    color: #0d3963;
+}
+ul
+{
+    color: #000000;
+}
+ol
+{
+    color: rgb(0, 0, 0);
+}
+p
+{
+    font-size:16px
+}
+h1
+{
+    text-align: center;
+    font-size:30px
+}
+ul
+{
+    font-size:16px
+}
+ol
+{
+    font-size:16px
+}
+h2
+{
+    text-align: center;
+    font-size:22px
+}
+.Expériences
+{
+    color: #0d3963;
+}
+.Formations
+{
+    color: #0d3963;
+}
+.Principale
+{
+    font-weight: bolder;
+    font-size: 16px;
+}
+h2
+{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+body
+{
+    background: url(image/fond.jpg) fixed no-repeat;
+    background-size: cover;
+}
+h1
+{
+    border: 3px black ridge;
+    border-radius: 20px;
+    box-shadow: 6px 6px 3px black;
+}
+h2
+{
+    border: 3px black ridge;
+    border-radius: 10px;
+}
+.page
+{
+    margin: auto;
+    width: 780px;
+    background: url(image/image_1.jpg) no-repeat top right
+}
